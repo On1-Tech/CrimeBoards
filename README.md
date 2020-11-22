@@ -26,14 +26,12 @@ http://crdShop.ru/                  | Forum/Shop |         | RU
 https://demonForums.net             | Forum      |         |                                                       
 https://donux.pw/login              | Forum      | y       |                                                       
 https://y3pggjcimtcglaon.onion/     | Forum      | n       | Darknet mirror of https://darkmoney.vc/, RU                                                      
-https://fraudstercrew.in/           | Forum      | n       | Anti-Adblocker Splash                                               
-http://horux.ng                     | Shop       | n       |                                                       
+https://fraudstercrew.in/           | Forum      | n       | Anti-Adblocker Splash                                                                                     
 https://www.nulled.to/              | Forum      | n       |                                                       
 https://www.olux.to/                | Shop       |         |                                                       
 http://lk53n4i4q4b34xnm.onion       |            |         | dead?                                                       
 https://raidForums.com              | Forum      | n       |                                                       
-http://malvult.net                  | Forum      | Semi    |           
-https://xakfor.net                  | Forum      |         | RU                                 
+http://malvult.net                  | Forum      | Semi    |                                          
 http://888-tools.com/               | Shop       | n       |                                                       
 http://darknet.so                   | Forum      | n       | RU                                                      
 http://www.dedseec.com/             | Blog       | n       | Hindi                                                      
