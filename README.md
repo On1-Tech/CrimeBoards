@@ -1,8 +1,7 @@
 URL                                 | Type       | Private | Notes                                                  
 ------------------------------------|------------|---------|-------------------------------------------------------
 https://exploitinqx4sjro.onion/     | Forum      | y       | RU                                                    
-https://lolzteam.net/               | Forum      | n       | RU                             
-https://hiddenhand.club/login       | Forum      | y       | carding                                               
+https://lolzteam.net/               | Forum      | n       | RU                                                                            
 https://cih.ms/join/apps.php        | Forum      | y       | RU
 https://darkwebs.ws/                | Forum      | n       | RU
 https://bhf.io                      | Forum      | n       | RU
