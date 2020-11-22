@@ -8,7 +8,7 @@ https://bhf.io                      | Forum      | n       | RU
 https://opencard.pw/                | Forum      | n       | RU   
 https://indetectables.net/f         | Forum      | n       | Spanish     
 https://crimenetwork.co/            | Forum/Shop | n       | German       
-http://darkode.su                   | Forum      | y       |                                                       
+                                                   
 https://vlmi.su/                    | Forum      | n       |                                                       
 http://Forum.mfd.ru/Forum/          | Forum      |         |                                                       
 https://hackForums.net              | Forum      | n       | skids                                                 
